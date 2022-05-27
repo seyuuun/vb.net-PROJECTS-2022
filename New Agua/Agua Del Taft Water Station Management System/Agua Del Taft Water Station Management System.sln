@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32413.511
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Agua Del Taft Water Station Management System", "Agua Del Taft Water Station Management System.vbproj", "{D3BE6ADF-E631-45A2-918A-98C304BC595E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3BE6ADF-E631-45A2-918A-98C304BC595E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3BE6ADF-E631-45A2-918A-98C304BC595E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3BE6ADF-E631-45A2-918A-98C304BC595E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3BE6ADF-E631-45A2-918A-98C304BC595E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {77A5AFDE-F56F-4839-B767-5B697653AD19}
+	EndGlobalSection
+EndGlobal

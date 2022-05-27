@@ -1,0 +1,96 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Agua Del Taft Water Station Management System
+</name>
+</assembly>
+<members>
+<member name="T:Agua_Del_Taft_Water_Station_Management_System.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Agua_Del_Taft_Water_Station_Management_System.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Agua_Del_Taft_Water_Station_Management_System.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:Agua_Del_Taft_Water_Station_Management_System.My.Resources.Resources.agua">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Agua_Del_Taft_Water_Station_Management_System.My.Resources.Resources.agua_removebg_preview">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Agua_Del_Taft_Water_Station_Management_System.My.Resources.Resources.best_price">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Agua_Del_Taft_Water_Station_Management_System.My.Resources.Resources.Close_removebg_preview">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Agua_Del_Taft_Water_Station_Management_System.My.Resources.Resources.coin">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Agua_Del_Taft_Water_Station_Management_System.My.Resources.Resources.dashboard_1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Agua_Del_Taft_Water_Station_Management_System.My.Resources.Resources.Ellipsis_2_6s_200px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Agua_Del_Taft_Water_Station_Management_System.My.Resources.Resources.Ellipsis_2_6s_200px_1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Agua_Del_Taft_Water_Station_Management_System.My.Resources.Resources.Ellipsis_2_6s_200px_2_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Agua_Del_Taft_Water_Station_Management_System.My.Resources.Resources.increase">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Agua_Del_Taft_Water_Station_Management_System.My.Resources.Resources.maintenance">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Agua_Del_Taft_Water_Station_Management_System.My.Resources.Resources.Maximize_removebg_preview">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Agua_Del_Taft_Water_Station_Management_System.My.Resources.Resources.Minimize_removebg_preview">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Agua_Del_Taft_Water_Station_Management_System.My.Resources.Resources.refresh_1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
